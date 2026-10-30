@@ -9,12 +9,12 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sumit957602&show_icons=true&include_all_commits=true&bg_color=151515&title_color=ffff&text_color=fff9&icon_color=52CB61&hide=issues,stars" alt="Sumit's GitHub statistics" />
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=sumit957602&show_icons=true&include_all_commits=true&bg_color=151515&title_color=ffff&text_color=fff9&icon_color=52CB61&hide=issues,stars" alt="Sumit's GitHub statistics" />
 </p>
 
 <br />
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sumit957602&bg_color=151515&title_color=ffff&text_color=fff9&layout=compact" alt="Sumit's most-used languages" />
+<img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=sumit957602&bg_color=151515&title_color=ffff&text_color=fff9&layout=compact" alt="Sumit's most-used languages" />
 
 <br />
 
