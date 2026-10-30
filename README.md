@@ -20,9 +20,13 @@
 
 <img align="right" alt="Coding" width="280" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-- 🔭 I’m currently working on **Web Development**
-- 🌱 I’m currently learning **Next.js**
-- 💬 Ask me about **MERN**
+- 🔭 I’m currently working on **.NET Development**
+- 🌱 I’m currently learning **ASP.NET Core**
+- 💬 Ask me about **C#, .NET, and web development**
+- 🛠️ I enjoy building **scalable web applications and REST APIs**
+- 🗄️ I work with **databases, backend services, and cloud technologies**
+- 🚀 I’m focused on writing **clean, maintainable, and reliable code**
+- 🤝 I enjoy **learning new technologies and contributing to open source**
 - 📫 Reach me at **sumit957602@gmail.com**
 - ⚡ Fun fact: **I am not funny**
 
