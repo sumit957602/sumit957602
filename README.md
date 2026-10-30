@@ -4,10 +4,6 @@
   </a>
 </h1>
 
-<p align="right">
-  <img align="right" alt="Coding" width="280" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
-</p>
-
 <p align="left">
   <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=sumit957602&show_icons=true&include_all_commits=true&bg_color=151515&title_color=ffff&text_color=fff9&icon_color=52CB61&hide=issues,stars" alt="Sumit's GitHub statistics" />
 </p>
@@ -21,6 +17,8 @@
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=sumit957602&theme=dark)
 
 ### About me
+
+<img align="right" alt="Coding" width="280" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 - 🔭 I’m currently working on **Web Development**
 - 🌱 I’m currently learning **Next.js**
